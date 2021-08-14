@@ -1,4 +1,4 @@
-![header-image](https://github.com/sm-wyBme/sm-wyBme/blob/main/images/Image1.jfif)
+![header-image](https://github.com/sm-wyBme/sm-wyBme/blob/main/images/1796531.jpg)
 
 ## Hi there, I am Suman, aka sm-wyBme👋.
 
