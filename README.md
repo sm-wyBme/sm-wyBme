@@ -1,5 +1,6 @@
 # 💫 About Me:
 😁 Hi there, I'm Suman, aka sm-wyBme 👋<br>❤️ I'm currently a student, developer and learner.<br>🧐 Interested in Problem Solving and Web Development.<br>🔭 Currently experimenting with everything to see what suits me the best.<br>🐧 FunFact: I Love Playing Guitar and Listening to Music.<br>
+![alt text](https://github.com/sm-wyBme/sm-wyBme/blob/main/Profile.jpg?raw=true)
 
 
 ## 🌐 Socials:
